@@ -1,0 +1,2 @@
+# diceGame
+JavaScript Dice Game
